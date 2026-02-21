@@ -2,7 +2,7 @@
 
 🎓 B.Tech CSE (AI & ML) Student  
 💻 Learning Data Structures & Algorithms + Full Stack Development  
-🎯 Targeting GATE 2027 + Software Engineering Placements  
+🎯 Targeting  Software Engineering Placements  
 
 ---
 
